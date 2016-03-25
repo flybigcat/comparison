@@ -1,5 +1,5 @@
 Author: Huijuan (Ann) Huang
-Time: 02/19、2016
+Time: 02/19/2016
 
 What Is This?
 -------------
@@ -72,8 +72,9 @@ Default website is http://localhost:8080/comparison/ which is home entry page
 
 9. demo.mp4 is provided as demo
 The following link is demo video in the dropbox, please feel free to check it 
-https://goo.gl/2Nr4Ns
-
+https://www.dropbox.com/sh/7mflfrzokw46wcp/AADYVSlVAEcwLvnfdWA6YQtDa?dl=0
+shortcut for
+https://goo.gl/gu3LvQ 
 
 
 
